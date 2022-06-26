@@ -9,4 +9,5 @@ export const auth = firebase.initializeApp({
     messagingSenderId: "786710612235",
     appId: "1:786710612235:web:f8a8dac404e5ada01e3a0e",
     measurementId: "G-3LJP6WY94F"
-}).auth();
+}).auth()
+
